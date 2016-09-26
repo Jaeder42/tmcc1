@@ -4,6 +4,7 @@
 ###Vad
 
 Uppgiften går ut på att implementera alla nödvändiga delar för att exekvera kod efter egen design och få ut förväntat resultat.
+Språket och ramverken ni använder är helt valfritt, likväl hur ni designar ert eget språk.
 Ni får själva ta reda på vilka delar som behövs. Ni ska kunna exekvera och presentera ett resultat från följande pseudo-kod:
 
 ```
